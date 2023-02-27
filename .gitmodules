@@ -1,0 +1,6 @@
+[submodule "assimp"]
+	path = assimp
+	url = ../assimp
+[submodule "glm"]
+	path = glm
+	url = ../glm
